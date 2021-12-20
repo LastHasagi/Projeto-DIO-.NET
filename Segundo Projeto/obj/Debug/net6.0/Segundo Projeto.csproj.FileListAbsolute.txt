@@ -1,0 +1,15 @@
+G:\Projetos Visual Studio\Segundo Projeto\bin\Debug\net6.0\Segundo Projeto.exe
+G:\Projetos Visual Studio\Segundo Projeto\bin\Debug\net6.0\Segundo Projeto.deps.json
+G:\Projetos Visual Studio\Segundo Projeto\bin\Debug\net6.0\Segundo Projeto.runtimeconfig.json
+G:\Projetos Visual Studio\Segundo Projeto\bin\Debug\net6.0\Segundo Projeto.dll
+G:\Projetos Visual Studio\Segundo Projeto\bin\Debug\net6.0\ref\Segundo Projeto.dll
+G:\Projetos Visual Studio\Segundo Projeto\bin\Debug\net6.0\Segundo Projeto.pdb
+G:\Projetos Visual Studio\Segundo Projeto\obj\Debug\net6.0\Segundo Projeto.csproj.AssemblyReference.cache
+G:\Projetos Visual Studio\Segundo Projeto\obj\Debug\net6.0\Segundo Projeto.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projetos Visual Studio\Segundo Projeto\obj\Debug\net6.0\Segundo Projeto.AssemblyInfoInputs.cache
+G:\Projetos Visual Studio\Segundo Projeto\obj\Debug\net6.0\Segundo Projeto.AssemblyInfo.cs
+G:\Projetos Visual Studio\Segundo Projeto\obj\Debug\net6.0\Segundo Projeto.csproj.CoreCompileInputs.cache
+G:\Projetos Visual Studio\Segundo Projeto\obj\Debug\net6.0\Segundo Projeto.dll
+G:\Projetos Visual Studio\Segundo Projeto\obj\Debug\net6.0\ref\Segundo Projeto.dll
+G:\Projetos Visual Studio\Segundo Projeto\obj\Debug\net6.0\Segundo Projeto.pdb
+G:\Projetos Visual Studio\Segundo Projeto\obj\Debug\net6.0\Segundo Projeto.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+G:\Projetos_DIO\Projeto_Dio_Dotnet\bin\Debug\net6.0\Projeto_Dio_Dotnet.exe
+G:\Projetos_DIO\Projeto_Dio_Dotnet\bin\Debug\net6.0\Projeto_Dio_Dotnet.deps.json
+G:\Projetos_DIO\Projeto_Dio_Dotnet\bin\Debug\net6.0\Projeto_Dio_Dotnet.runtimeconfig.json
+G:\Projetos_DIO\Projeto_Dio_Dotnet\bin\Debug\net6.0\Projeto_Dio_Dotnet.dll
+G:\Projetos_DIO\Projeto_Dio_Dotnet\bin\Debug\net6.0\ref\Projeto_Dio_Dotnet.dll
+G:\Projetos_DIO\Projeto_Dio_Dotnet\bin\Debug\net6.0\Projeto_Dio_Dotnet.pdb
+G:\Projetos_DIO\Projeto_Dio_Dotnet\obj\Debug\net6.0\Projeto_Dio_Dotnet.csproj.AssemblyReference.cache
+G:\Projetos_DIO\Projeto_Dio_Dotnet\obj\Debug\net6.0\Projeto_Dio_Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projetos_DIO\Projeto_Dio_Dotnet\obj\Debug\net6.0\Projeto_Dio_Dotnet.AssemblyInfoInputs.cache
+G:\Projetos_DIO\Projeto_Dio_Dotnet\obj\Debug\net6.0\Projeto_Dio_Dotnet.AssemblyInfo.cs
+G:\Projetos_DIO\Projeto_Dio_Dotnet\obj\Debug\net6.0\Projeto_Dio_Dotnet.csproj.CoreCompileInputs.cache
+G:\Projetos_DIO\Projeto_Dio_Dotnet\obj\Debug\net6.0\Projeto_Dio_Dotnet.dll
+G:\Projetos_DIO\Projeto_Dio_Dotnet\obj\Debug\net6.0\ref\Projeto_Dio_Dotnet.dll
+G:\Projetos_DIO\Projeto_Dio_Dotnet\obj\Debug\net6.0\Projeto_Dio_Dotnet.pdb
+G:\Projetos_DIO\Projeto_Dio_Dotnet\obj\Debug\net6.0\Projeto_Dio_Dotnet.genruntimeconfig.cache
