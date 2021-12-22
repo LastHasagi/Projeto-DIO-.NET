@@ -1,0 +1,15 @@
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\Terceiro projeto\bin\Debug\net6.0\Terceiro projeto.exe
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\Terceiro projeto\bin\Debug\net6.0\Terceiro projeto.deps.json
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\Terceiro projeto\bin\Debug\net6.0\Terceiro projeto.runtimeconfig.json
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\Terceiro projeto\bin\Debug\net6.0\Terceiro projeto.dll
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\Terceiro projeto\bin\Debug\net6.0\ref\Terceiro projeto.dll
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\Terceiro projeto\bin\Debug\net6.0\Terceiro projeto.pdb
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\Terceiro projeto\obj\Debug\net6.0\Terceiro projeto.csproj.AssemblyReference.cache
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\Terceiro projeto\obj\Debug\net6.0\Terceiro projeto.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\Terceiro projeto\obj\Debug\net6.0\Terceiro projeto.AssemblyInfoInputs.cache
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\Terceiro projeto\obj\Debug\net6.0\Terceiro projeto.AssemblyInfo.cs
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\Terceiro projeto\obj\Debug\net6.0\Terceiro projeto.csproj.CoreCompileInputs.cache
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\Terceiro projeto\obj\Debug\net6.0\Terceiro projeto.dll
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\Terceiro projeto\obj\Debug\net6.0\ref\Terceiro projeto.dll
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\Terceiro projeto\obj\Debug\net6.0\Terceiro projeto.pdb
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\Terceiro projeto\obj\Debug\net6.0\Terceiro projeto.genruntimeconfig.cache
