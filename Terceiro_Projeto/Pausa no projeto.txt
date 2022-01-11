@@ -1,0 +1,5 @@
+Por enquanto dei uma pausa nesse projeto para poder aprofundar um pouco mais os meus conhecimentos na área de .NET para poder voltar com tudo nesse projeto onde o objetivo é a criação de uma aplicação funcional. 
+O quarto projeto foi um projeot mais simples do que essa aqui, por isso ele foi feito primeiro.
+
+
+~Alücard
