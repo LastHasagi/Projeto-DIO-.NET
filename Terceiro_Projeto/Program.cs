@@ -1,2 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Olá seu merda");
+Console.WriteLine("Olá");
+Console.WriteLine("oioioi");
