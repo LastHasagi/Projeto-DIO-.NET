@@ -1,0 +1,15 @@
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\c Terceiro_Projeto\ExemplosPOO\bin\Debug\net6.0\ExemplosPOO.exe
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\c Terceiro_Projeto\ExemplosPOO\bin\Debug\net6.0\ExemplosPOO.deps.json
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\c Terceiro_Projeto\ExemplosPOO\bin\Debug\net6.0\ExemplosPOO.runtimeconfig.json
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\c Terceiro_Projeto\ExemplosPOO\bin\Debug\net6.0\ExemplosPOO.dll
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\c Terceiro_Projeto\ExemplosPOO\bin\Debug\net6.0\ref\ExemplosPOO.dll
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\c Terceiro_Projeto\ExemplosPOO\bin\Debug\net6.0\ExemplosPOO.pdb
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\c Terceiro_Projeto\ExemplosPOO\obj\Debug\net6.0\ExemplosPOO.csproj.AssemblyReference.cache
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\c Terceiro_Projeto\ExemplosPOO\obj\Debug\net6.0\ExemplosPOO.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\c Terceiro_Projeto\ExemplosPOO\obj\Debug\net6.0\ExemplosPOO.AssemblyInfoInputs.cache
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\c Terceiro_Projeto\ExemplosPOO\obj\Debug\net6.0\ExemplosPOO.AssemblyInfo.cs
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\c Terceiro_Projeto\ExemplosPOO\obj\Debug\net6.0\ExemplosPOO.csproj.CoreCompileInputs.cache
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\c Terceiro_Projeto\ExemplosPOO\obj\Debug\net6.0\ExemplosPOO.dll
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\c Terceiro_Projeto\ExemplosPOO\obj\Debug\net6.0\ref\ExemplosPOO.dll
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\c Terceiro_Projeto\ExemplosPOO\obj\Debug\net6.0\ExemplosPOO.pdb
+G:\Projetos_DIO\Projeto_Dio_Dotnet\Projeto-DIO-.NET\c Terceiro_Projeto\ExemplosPOO\obj\Debug\net6.0\ExemplosPOO.genruntimeconfig.cache
